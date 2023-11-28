@@ -1,3 +1,6 @@
+![logo](https://github.com/BringNode/BringNode/blob/main/banner.png.jpg)
+
+
 <h1 align="center">Hi 👋, I'm allexiz</h1>
 <h3 align="center">Operator node and validator</h3>
 
