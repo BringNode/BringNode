@@ -10,7 +10,7 @@
  My experience in this field has enabled me to develop innovative solutions and contribute to pioneering innovative and high-potential technology projects</h4>
 <hr/>
 <br/>
-<img align="right" alt="coding" width="480" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
+<img align="right" alt="coding" width="450" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bringnode&label=Profile%20views&color=0e75b6&style=flat" alt="bringnode" /> </p>
 
 - 🔭 I’m currently working on [Mantra chain](https://www.mantrachain.io/)
