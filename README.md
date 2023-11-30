@@ -30,7 +30,7 @@
 
 <hr/>
 
-<h3 align="center"> 🔴 NODE VALIDATOR 🔴</h3>
+<h3 align="center"> 🔴 VALIDATOR NODES HISTORY 🔴</h3>
 
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/5996f06c-5343-4a04-b739-47aac66004bc' height='100'>](https://github.com/BringNode/All-project/tree/main/Realio)
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/cb071294-0577-469a-94b4-93adf07dd7ad' height='100'>](https://github.com/BringNode/All-project/tree/main/Desmos)
