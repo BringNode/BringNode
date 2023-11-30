@@ -6,7 +6,7 @@
 <hr/>
 
 <br/>
-<img align="right" alt="coding" width="480" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
+<img align="right" alt="coding" width="440" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bringnode&label=Profile%20views&color=0e75b6&style=flat" alt="bringnode" /> </p>
 
