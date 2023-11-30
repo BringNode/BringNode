@@ -4,9 +4,13 @@
 <h1 align="center">Hi 👋, I'm allexiz</h1>
 <h3 align="center">Operator node and validator</h3>
 <hr/>
-
+<h4 align="center">I am a operator node and validator , and have been quite involved with several new blockchain projects,
+ Me and my team's mission is to participate in building and being involved in a blockchain project, and helping a project reach the milestones they are targeting.
+ And I am a professional who has delved into blockchain technology, node, and validators for several years. 
+ My experience in this field has enabled me to develop innovative solutions and contribute to pioneering innovative and high-potential technology projects</h4>
+<hr/>
 <br/>
-<img align="right" alt="coding" width="440" src="https://miro.medium.com/v2/resize:fit:802/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
+<img align="right" alt="coding" width="480" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bringnode&label=Profile%20views&color=0e75b6&style=flat" alt="bringnode" /> </p>
 
 - 🔭 I’m currently working on [Mantra chain](https://www.mantrachain.io/)
