@@ -41,14 +41,7 @@
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/24f8dbd8-86a0-4dfe-a824-a18c054cca6f' height='100'>](https://github.com/BringNode/All-project/tree/main/Juno)
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/fd1a9607-2eff-4063-8458-e4bfc68eb809' height='100'>](https://github.com/BringNode/All-project/tree/main/Cosmos)
 
-
-
-
-
-
-
-
-
+<hr/>
 <div align="center">
  
   <br>
@@ -56,7 +49,6 @@
   
   <br/><br/><br/>
 </div>
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
